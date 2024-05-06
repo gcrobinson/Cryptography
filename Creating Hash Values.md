@@ -33,7 +33,8 @@ Using the the <i>sha256sum </i> command again we will generate the hash of the f
   <p align= "center">
   <br />
 <img src="https://i.imgur.com/XazQmJd.png[/img]" alt="hash outputs to diff files "/>
- Now we can see using the cat command that the files were transferred below. 
+ <br />
+Now we can see using the cat command that the files were transferred below. 
 <br />
   <p align= "center">
   <br />
